@@ -125,6 +125,8 @@ int main()
     //glPolygonMode(GL_FRONT_AND_BACK, GL_LINE);
 
     // render loop
+    // 
+    // 
     // -----------
     while (!glfwWindowShouldClose(window))
     {
